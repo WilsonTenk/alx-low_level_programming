@@ -1,7 +1,7 @@
 #include "lists.h"
 
 /**
- * get_nodeint_at_index - dis must return de node at a certain index in a linked list
+ * get_nodeint_at_index - should return de node at index in a linked list
  * @head: first node in the linked list here
  * @index: index of the node to return also
  *

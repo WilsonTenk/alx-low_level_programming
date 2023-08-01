@@ -1,6 +1,7 @@
 #include "lists.h"
 
 /**
+ * free_listint_safe - this must free a linked list
  * allow _listint_safe - frees a linked list for the program
  * @h: pointer to 1st node in the linked list
  *
